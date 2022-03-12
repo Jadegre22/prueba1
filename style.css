@@ -1,0 +1,24 @@
+.spanheader{
+    display:inline-block; 
+    width:20%;
+    height:100px; 
+    vertical-align:bottom;
+    border-radius: 10%;
+  }
+
+  #s1{
+    background-color: blueviolet; 
+    background-image:url(img/LogosInti.png); 
+    background-size: contain; 
+    background-repeat: no-repeat;
+  }
+  #s2{
+    background-color: aquamarine; 
+    text-align: center;
+  }
+  #s3{
+    background-color:chocolate ;
+  }
+  #s4{
+    background-color:#FF0088
+  }
