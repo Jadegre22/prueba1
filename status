@@ -1,0 +1,26 @@
+[33mcommit be9bcb224421688237c7fcd0f95d554f24867855[m[33m ([m[1;36mHEAD -> [m[1;32mDevelop[m[33m)[m
+Author: Javier <javierdegregorio22@hotmail.com>
+Date:   Mon Jan 10 12:00:44 2022 -0300
+
+    Mi segundo commit local
+
+[33mcommit 5a67d25e5ea573a382324a797830378594adee3e[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: 40f89ad c2d2f2e
+Author: Jadegre22 <96580510+Jadegre22@users.noreply.github.com>
+Date:   Mon Jan 10 11:34:59 2022 -0300
+
+    Merge pull request #1 from Jadegre22/Develop
+    
+    Update Prueba1.html
+
+[33mcommit c2d2f2e18c6bb8eead55d4b034876cb3049943cc[m[33m ([m[1;31morigin/Develop[m[33m)[m
+Author: Jadegre22 <96580510+Jadegre22@users.noreply.github.com>
+Date:   Mon Jan 10 11:32:59 2022 -0300
+
+    Update Prueba1.html
+
+[33mcommit 40f89ad52742030cc56ea17d0540a96d48594ca7[m
+Author: Javier <javierdegregorio22@hotmail.com>
+Date:   Mon Jan 10 11:16:34 2022 -0300
+
+    primer commit
